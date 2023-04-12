@@ -7,3 +7,5 @@ streamlit.text('🥣 Döner mit Pommes')
 streamlit.text('🥗 Milchshake')
 streamlit.text('🥑 Cola XXL')
 streamlit.text('🍞 Fritten')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
